@@ -1,8 +1,8 @@
 class Yeast < Formula
   desc "Yet Another Shell Trick"
   homepage "https://github.com/yvan-sraka/YeAST"
-  url "https://github.com/yvan-sraka/YeAST/archive/v0.13.0.tar.gz"
-  sha256 "bcb451a634544dce2766221f6fcb8d3c60969ee9db15aab37b9c0021a8785bb4"
+  url "https://github.com/yvan-sraka/YeAST/archive/v0.14.0.tar.gz"
+  sha256 "523a2bfb719e640b833106a973bbe598d28cf51ca8ee8575baa2a7ba474ababf"
   depends_on "rust" => :build
 
   def install
